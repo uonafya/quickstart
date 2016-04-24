@@ -20,7 +20,7 @@ What is JPRP?
 
 How to manage users in PHES/JPRP portal?
 +++++++++++++++++++++++++++++++++++++++++
-- `User Management <http://nhis-docs.readthedocs.org/en/latest/users.html>`_
+- `User Management <http://jprp-docs.readthedocs.org/en/latest/users.html>`_
 
 Any Queries?
 +++++++++++++++++++++++++++++++++++++++++
