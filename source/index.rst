@@ -22,10 +22,9 @@ How to manage users in PHES/JPRP portal?
 +++++++++++++++++++++++++++++++++++++++++
 - `User Management <http://jprp-docs.readthedocs.org/en/latest/users.html>`_
 
-Any Queries?
+Any Queries & Support?
 +++++++++++++++++++++++++++++++++++++++++
-- Put your Request in the Service Desk Portal-`JPRP/PHES Service Desk <https://jphes-support.on.spiceworks.com/portal>`_
-- Or send an Email to **help@jphes-support.on.spiceworks.com**
+-Send an email to  **omunyao@gmail.com** and **gichangijohn3@gmail.com** cc **Raphael_Pundo@afyainfo.org**
 
 
 
