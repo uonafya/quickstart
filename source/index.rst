@@ -16,7 +16,7 @@ What is PHES?
 
 What is JPRP?
 ++++++++++++++
-- Joint Partners Reporting Portal-`More info <http://nhis-docs.readthedocs.org/en/latest/>`_
+- Joint Partners Reporting Portal-`More info <http://jprp-docs.readthedocs.org/en/latest/>`_
 
 How to manage users in PHES/JPRP portal?
 +++++++++++++++++++++++++++++++++++++++++
