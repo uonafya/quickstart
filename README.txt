@@ -1,3 +1,4 @@
-FAQ -PHES & JPRP
-+++++++++++++++++
-**Link**-http://quickstart.readthedocs.org/en/latest/
+FAQ -JPHES
+++++++++++++++
+
+http://jphes-quickstart.readthedocs.io/en/latest/
