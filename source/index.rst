@@ -18,13 +18,14 @@ What is JPRP?
 ++++++++++++++
 - Joint Partners Reporting Portal-`More info <http://jprp-docs.readthedocs.org/en/latest/>`_
 
-How to manage users in PHES/JPRP portal?
+
+How to manage users in JPRP/PHES portal?
 +++++++++++++++++++++++++++++++++++++++++
 - `User Management <http://jprp-docs.readthedocs.org/en/latest/users.html>`_
 
 Any Queries & Support?
 +++++++++++++++++++++++++++++++++++++++++
--Send an email to  **omunyao@gmail.com** and **gichangijohn3@gmail.com** cc **Raphael_Pundo@afyainfo.org**
+- Send your request via `JPHES Support Portal <https://jphes-support.on.spiceworks.com/portal>`_
 
 
 
